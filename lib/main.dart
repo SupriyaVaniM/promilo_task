@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:promilo_task/home.dart';
+import 'package:promilo_task/views/home.dart';
 
 void main() {
   runApp(const MyApp());
